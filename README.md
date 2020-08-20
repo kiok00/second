@@ -1,1 +1,3 @@
 # second
+
+pravka iz master
