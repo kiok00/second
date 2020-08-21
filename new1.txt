@@ -9,3 +9,5 @@ feature3
 feature-masrer1
 
 feature4 //from feature
+
+Дописываем что-то, чтоб что-то проверить
